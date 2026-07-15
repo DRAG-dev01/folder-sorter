@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Python
+*.so
+*.pyd
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Unit tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Black
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.old
+
+# Generated folders
+Duplicates/
+Images/
+Videos/
+Audio/
+Documents/
+Archives/
+Programming/
+Databases/
+Fonts/
+CAD/
+3D_Models/
+Virtual_Machines/
+Misc/
+
+# Ignore downloaded test files
+test_downloads/
